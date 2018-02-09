@@ -9,6 +9,6 @@ for(i=0;i<p;i++)
 rem=rem*n;
 }
 printf("%d",rem);
-GETCH();
+getch();
 return 0;
 }
