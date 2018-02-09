@@ -12,5 +12,6 @@ for(i=0;pal!=0;i++)
 }
 if(n==temp)
     printf("palindrome");
+    getch();
 return 0;
 }
