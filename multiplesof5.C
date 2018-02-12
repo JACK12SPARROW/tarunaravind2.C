@@ -7,5 +7,6 @@ int main(void) {
 		res=n*i;
 		printf("\n%d*%d=%d",n,i,res);
 	}
+	getch();
 	return 0;
 }
